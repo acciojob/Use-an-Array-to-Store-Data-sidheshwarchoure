@@ -1,1 +1,1 @@
-yourArray = [,42,true,"hello world"];
+yourArray = [42,true,"hello world"];
