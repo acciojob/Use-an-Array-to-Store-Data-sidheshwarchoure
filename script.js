@@ -1,1 +1,1 @@
-		yourArray = ['apple',42,true,null,"hello world"];
+yourArray = [,42,true,"hello world"];
